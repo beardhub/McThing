@@ -1,0 +1,11 @@
+name: ExamplePlugin
+main: com.beardman.bukkit.exampleplugin.ExamplePlugin
+version: 1.0.0
+author: Beard_Man
+commands:
+  ceiling:
+    description: Teleport to right below the ceiling above you
+    usage: /ceiling
+  itemfilter:
+    description: Open settings for filtering item pickups
+    usage: /itemfilter
